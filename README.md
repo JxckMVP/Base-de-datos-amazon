@@ -1,2 +1,2 @@
 # Base-de-datos-amazon
-Peoductos de amazo 
+Peoductos de amazon
